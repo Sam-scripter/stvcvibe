@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368702408011",
+    "project_id": "stvc-fcc83",
+    "storage_bucket": "stvc-fcc83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368702408011:android:d6328b6a37091457f294ce",
+        "android_client_info": {
+          "package_name": "com.example.stvcvibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbovGqTbsnujftg-v0QOrltoCWVbU2oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
